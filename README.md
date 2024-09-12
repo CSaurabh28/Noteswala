@@ -11,7 +11,6 @@ NoteWala is a note management application designed to help users efficiently man
 - **Note Management**
   - Users can create, edit, view, and delete notes.
   - Rich text editor for enhanced note-taking.
-    
 
 - **Search Functionality**
   - Search for specific notes using keywords to quickly find the information you need.
@@ -68,19 +67,15 @@ To set up the project locally, follow these steps:
 
 ### Home Page
 
+<img src="https://github.com/user-attachments/assets/7a526aed-2fdb-4a9a-a8ab-da747f71c170" alt="Home Page" width="600"/>
 
+### Add Note Page
 
-### Note Page
+<img src="https://github.com/user-attachments/assets/cdea7ab8-91dc-40b0-bc86-f8b9c520a120" alt="Add Note Page" width="600"/>
 
+### View Note
 
-
-### Search Functionality
-
-
-
-### Add/Edit Note
-
-
+<img src="https://github.com/user-attachments/assets/8ece4ea5-b2cc-42e3-98d0-9e24495fb7c1" alt="View Note" width="600"/>
 
 ## Future Enhancements
 
